@@ -1,8 +1,3 @@
-📝 [My posts](https://scastiel.dev/articles) · 
-⚙️ [My projects](https://scastiel.dev/projects) · 
-🫱🏻‍🫲🏽 [My mentoring services](https://scastiel.dev/mentoring) · 
-👨🏻‍🏫 [My React workshop](https://scastiel.dev/react-workshop) · 
-🗣️ [My talks](https://scastiel.dev/talks) · 
-📕 [My books](https://scastiel.dev/books)
+📢 **Check out my new project: ✨ [Between the Prompts](https://betweentheprompts.com?ref=github-profile)** ✨
 
-Everything about me is [on my website](https://scastiel.dev) 😉
+I am learning so much about AI-assisted coding these days that I couldn't resist documenting my journey 😉
