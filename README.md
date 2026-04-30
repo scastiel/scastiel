@@ -1,1 +1,1 @@
-📢 **Check out my new project: ✨ [Kado](https://getkado.app?ref=github-profile)** ✨
+📢 **Check out my new project: ✨ [Kadō](https://getkado.app?ref=github-profile)** ✨
